@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Test_gan_DoiTuong_dt2_cho_DoiTuong_dt1_code_C_sharp/1.0.0": {
+        "runtime": {
+          "Test_gan_DoiTuong_dt2_cho_DoiTuong_dt1_code_C_sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_gan_DoiTuong_dt2_cho_DoiTuong_dt1_code_C_sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
